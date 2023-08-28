@@ -94,3 +94,6 @@
 [submodule "UME"]
 	path = UME
 	url = git@github.com:dvessel/UME-Core.git
+[submodule "PCSX2-Core"]
+	path = PCSX2-Core
+	url = git@github.com:OpenEmu/PCSX2-Core.git

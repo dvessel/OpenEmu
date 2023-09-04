@@ -77,6 +77,9 @@
       location = "group:PCSX2-Core/PCSX2.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:Play-Core/Play!.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:PPSSPP/PPSSPP.xcodeproj">
    </FileRef>
    <FileRef

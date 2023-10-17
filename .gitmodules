@@ -88,3 +88,9 @@
 [submodule "DeSmuME"]
 	path = DeSmuME
 	url = ../../OpenEmu/DeSmuME-Core.git
+[submodule "PPSSPP"]
+	path = PPSSPP
+	url = ../../OpenEmu/PPSSPP-Core.git
+[submodule "UME"]
+	path = UME
+	url = git@github.com:dvessel/UME-Core.git
